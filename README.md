@@ -17,7 +17,7 @@ Las expresiones regulares son una forma de describir patrones de texto para busc
 
 Puedes ver la presentación completa aquí:  
 
-👉 (enlace a Gamma)  
+👉 (https://gamma.app/docs/Regex-El-Superpoder-de-Buscar-Texto-8uvtc3snbiri3xr?mode=doc)
 
 ## 🧠 ¿Qué es Regex?  
 
