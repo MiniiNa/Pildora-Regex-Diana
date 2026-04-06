@@ -1,0 +1,18 @@
+SOLUCIONES REGEX
+
+Nivel 1 — findall
+r"SECRET code:([A-Z]+-\d+)"
+
+Nivel 2 — search
+r"\d{3}\.\d{3}\.\d{3}\.\d{3}"
+
+Nivel 3 — split
+r"\s"
+(para hacerlo más avanzado podrías usar:)
+r"\s|:"
+
+Nivel 4 — sub
+r"ERROR"
+
+Nivel 5 — final
+r"SIGNATURE:.*"
