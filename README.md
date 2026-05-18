@@ -1,6 +1,15 @@
 # 🧩 Regex: El lenguaje secreto para encontrar patrones en texto
 
-Una píldora práctica para aprender a usar expresiones regulares (Regex) en análisis de datos.
+Una píldora práctica para aprender a usar expresiones regulares (Regex) en análisis de datos.  
+
+## 📦 Contenido del repositorio
+
+📁 Pildora-Regex/  
+│  
+├── 📄 README.md  
+├── 📄 Regex-El-Superpoder-de-Buscar-Texto.pdf    
+└── 📄 Regex Scape Room.ipynb    
+└── 📄 Soluciones Dinámica REGEX.txt  
 
 ## 🎯 Objetivo
 
@@ -56,9 +65,9 @@ Construir soluciones desde cero
 ## 💡 Regex es difícil al principio, pero mejora muchísimo con práctica y experimentación.  
 
 ## 🛠️ Herramientas recomendadas  
-https://regex101.com  
+https://regex101.com
  → probar expresiones  
-https://regexr.com  
+https://regexr.com
  → aprender visualmente  
 Tu lenguaje favorito (Python, R, SQL, etc.)    
 
@@ -78,5 +87,11 @@ Prueba siempre con ejemplos reales
 Documenta tus expresiones  
 No intentes memorizar todo (nadie lo hace 😄)  
 
-## <p align="center"> 💫No necesitas memorizar Regex, necesitas aprender a pensar en patrones💫
-</p>
+---  
+
+## 👩‍💻 Autora
+Píldora formativa creada por Diana Martínez.  
+Presentación elaborada con GAMMA.  
+Notebook diseñado para una experiencia inmersiva de aprendizaje. 
+
+## 💫No necesitas memorizar Regex, necesitas aprender a pensar en patrones
